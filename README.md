@@ -47,6 +47,7 @@ img {
                         <h4 class="card-title">Neurotracker</h4>
                         <p class="card-text">This ImageJ software package tracks fluorescent calcium signals in neurons of freely behaving animals. Published in Larsch et al., PNAS 2013.</p>
                     </div>
+                  
                 </div> 
 </div>
 
