@@ -15,7 +15,7 @@ A frame of the video should appear.  The following user inputs are required, acc
 * Drag a box around the arena to indicate its position.  Choose the left/right edges to exclude at least one whole circular post, to exclude behaviors when the animal touches the upstream/downstream barriers.  Choose upper/lower boundaries just outside of the border.  The selected region turns red.  Click once inside the red box to confirm; otherwise, click outside and drag a new box.
 * Get scaling.  The sample video shows a 22 mm vertical device.  Pick two points on the upper and lower boundaries of the arena where they are horizontal (for example, upper-left and lower-left corners).
 
-<img src="stripearenas.jpg">
+<img src="stripearenas.JPG">
 
 Analysis should begin and the figure should update every 60 frames, showing the current frame and tracked animals (blue + indicates centroid; red line is prior path).
 
