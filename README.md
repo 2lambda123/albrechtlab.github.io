@@ -1,35 +1,38 @@
-# starter-slim
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  border-radius: 5px;
+}
 
-1. [Generate with the same files and folders](https://github.com/rundocs/starter-slim/generate) from this repository
-2. Set up your GitHub Pages to source(`/`)
-3. Now you can view your documentation in your site
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
 
-## site.pages
+img {
+  border-radius: 5px 5px 0 0;
+}
 
-<!-- prettier-ignore-start -->
+.container {
+  padding: 2px 16px;
+}
+</style>
+</head>
+<body>
 
-| source          | link                                                           |
-| --------------- | -------------------------------------------------------------- |
-{% for page in site.pages -%}
-| {{ page.path }} | [{{ page.url | relative_url }}]({{ page.url | relative_url }}) |
-{% endfor %}
+<h2>Round Card</h2>
 
-<!-- prettier-ignore-end -->
+<div class="card">
+  <img src="img_avatar2.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>Jane Doe</b></h4> 
+    <p>Interior Designer</p> 
+  </div>
+</div>
 
-## Documents
-
-https://jekyll-rtd-theme.rundocs.io
-
-## Local debug
-
-```sh
-gem install jekyll bundler
-
-bundle install
-
-JEKYLL_GITHUB_TOKEN=blank PAGES_API_URL=http://0.0.0.0 bundle exec jekyll server --livereload
-```
-
-## The license
-
-The theme is available as open source under the terms of the MIT License
+</body>
+</html>
