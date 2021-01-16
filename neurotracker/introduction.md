@@ -3,10 +3,5 @@ sort: 1
 ---
 
 # Introduction
-this is test code for documentation regarding neurotracker.
+Neurotracker is an ImageJ plugin that allows the identification and tracking of the fluorescence displayed in epifluorescent microscope image stacks (usually in .TIF/.TIFF format).
 
-## Section 1
-Lorem Ipsum
-
-## Section 2
-Lorem Ipsum 2
