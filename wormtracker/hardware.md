@@ -33,12 +33,12 @@ Our current setup:
 
 Building the tracker:
 
-#.  Assemble 24" vertical post, 18" post, and four 4" steel posts onto small platform base.
-#.  Drill four 3/16" holes in the 10x10" glass plate and insert grommets.
-#.  Attach glass plate to steel posts and add optional rubber edge trim.
-#.  Solder power cord to LED backlight.  Cut privacy filter to fit backlight, 2 pieces at 90 degrees rotation.
-#.  Screw syringe bracket to ring mount and add thumb screw.
-#.  Attach zoom lens to camera and mount to 90 degree angle mount.
+.#  Assemble 24" vertical post, 18" post, and four 4" steel posts onto small platform base.
+.#  Drill four 3/16" holes in the 10x10" glass plate and insert grommets.
+.#  Attach glass plate to steel posts and add optional rubber edge trim.
+.#  Solder power cord to LED backlight.  Cut privacy filter to fit backlight, 2 pieces at 90 degrees rotation.
+.#  Screw syringe bracket to ring mount and add thumb screw.
+.#  Attach zoom lens to camera and mount to 90 degree angle mount.
 
 
 
