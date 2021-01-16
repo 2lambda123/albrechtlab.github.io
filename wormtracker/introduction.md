@@ -22,14 +22,14 @@ Please note that no AutoCAD (.dwg) version is currently available due to curve c
 ## MATLAB Tracking and Analysis scripts:
 MATLAB scripts (m-files) accomplish the following basic tasks:
 
-    * *ArenaTracker:* Segment video file (.AVI) to obtain worm tracks. Code adapted from the parallel worm tracker.
-    * *SegmentTracks:* Identifies instantaneous behavioral states from worm tracks and morphological data.
-    * *Ethogram:* Displays ethogram and summarizes behavioral state probability and speed over time.
-    * *WormDensity:* Summarizes behavioral state and speed data over space and time.
+    * ArenaTracker: Segment video file (.AVI) to obtain worm tracks. Code adapted from the parallel worm tracker.
+    * SegmentTracks: Identifies instantaneous behavioral states from worm tracks and morphological data.
+    * Ethogram: Displays ethogram and summarizes behavioral state probability and speed over time.
+    * WormDensity: Summarizes behavioral state and speed data over space and time.
 
 Video tracking, behavior segmentation, and data analysis were performed using MATLAB v7.0.1 with the Image Processing toolbox. Scripts have been tested on Windows XP and 7. 
 
-## Example Video
+## Example Video (Click the photo)
 [![Single worm in microfluidic arena.](https://i.vimeocdn.com/video/136180805.jpg?mw=900&mh=675&q=70)](https://player.vimeo.com/video/21194888/ "Single Worm in microfluidic arena")
 
 
