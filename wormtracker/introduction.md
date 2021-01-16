@@ -1,9 +1,6 @@
 ---
 sort: 1 
 ---
-<!---
-	This is a comment.  Edit the number after the string 'sort:' above to set the order of appearance of the files on the webpage
---->
 
 # Introduction
 ## Overview
@@ -29,7 +26,7 @@ MATLAB scripts (m-files) accomplish the following basic tasks:
 
 Video tracking, behavior segmentation, and data analysis were performed using MATLAB v7.0.1 with the Image Processing toolbox. Scripts have been tested on Windows XP and 7. 
 
-## Example Video (Click the photo)
+## Example Video 
 C. elegans in a microfluidic behavior arena, captured with a single worm tracker [http://www.mrc-lmb.cam.ac.uk/wormtracker/].
 
 <div class="embed-container">
