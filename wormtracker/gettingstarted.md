@@ -19,7 +19,7 @@ A frame of the video should appear.  The following user inputs are required, acc
 
 Analysis should begin and the figure should update every 60 frames, showing the current frame and tracked animals (blue + indicates centroid; red line is prior path).
 
-![Tracks photo](./tracks.jpg)
+<img src="tracks.jpg">
 
 At the end of analysis, a single multipage PDF should appear in the same folder as the raw video.
 
