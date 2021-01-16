@@ -27,11 +27,27 @@ img {
 <h2>Round Card</h2>
 
 <div class="card">
-  <img src="img_avatar2.png" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
-  </div>
+                <div class="card-horizontal">
+                    <div class="img-square-wrapper">
+                        <img class="" src="/assets/wormpath.JPG" alt="Worm Path Image">
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Arena Worm Tracker</h4>
+                        <p class="card-text">This MATLAB software suite analyzes C. elegans behavior in microfluidic arenas.  Published in Albrecht & Bargmann, Nature Methods 2011.</p>
+                    </div>
+                </div>
+</div>
+
+<div class="card">
+                <div class="card-horizontal">
+                    <div class="img-square-wrapper">
+                        <img class="" src="/assets/neurotracker.JPG" alt="Worm Path Image">
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Neurotracker</h4>
+                        <p class="card-text">This ImageJ software package tracks fluorescent calcium signals in neurons of freely behaving animals. Published in Larsch et al., PNAS 2013.</p>
+                    </div>
+                </div> 
 </div>
 
 </body>
