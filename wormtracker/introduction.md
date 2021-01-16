@@ -30,9 +30,15 @@ MATLAB scripts (m-files) accomplish the following basic tasks:
 Video tracking, behavior segmentation, and data analysis were performed using MATLAB v7.0.1 with the Image Processing toolbox. Scripts have been tested on Windows XP and 7. 
 
 ## Example Video (Click the photo)
-[![Single worm in microfluidic arena.](https://i.vimeocdn.com/video/136180805.jpg?mw=900&mh=675&q=70)](https://player.vimeo.com/video/21194888/ "Single Worm in microfluidic arena")
-
-
-
-
+<div class="embed-container">
+  <iframe
+      src="https://player.vimeo.com/video/21194888/"
+      width="500"
+      height="281"
+      frameborder="0"
+      webkitallowfullscreen
+      mozallowfullscreen
+      allowfullscreen>
+  </iframe>
+</div>
 
