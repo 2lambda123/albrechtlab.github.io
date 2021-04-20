@@ -35,4 +35,4 @@ This is a bunch of stuff about microfluidics!
 {% include list.liquid all=true %}
 
 
-Please help update these resource, by sending any additional links (and any no longer operational) to [albrechtlab@zoho.com](mailto:albrechtlab@zoho.com?subject="Microfluidic page commnents")
+Please help update these resource, by sending any additional links (and any no longer operational) to [albrechtlab@zoho.com](mailto:albrechtlab@zoho.com?subject=Microfluidic%20 page%20commnent)
