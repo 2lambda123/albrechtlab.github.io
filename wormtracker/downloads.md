@@ -4,8 +4,7 @@ sort: 6
 
 # Download Links
 
-* [Current Release Page: Download both zip files](https://github.com/albrechtLab/ArenaWormTracker/releases/tag/1.0.0)
-* [ArenaWormTracker code and instructions only](https://github.com/albrechtLab/ArenaWormTracker/archive/1.0.0.zip)
+* [Current Release Page: Download 'source.zip' file on this page.](https://github.com/albrechtLab/ArenaWormTracker/releases/latest)
 * [Sample video and analysis only](https://github.com/albrechtLab/ArenaWormTracker/releases/download/1.0.0/N2_IAA-7_stripe2_sample.zip)
 
 Video tracking, behavior segmentation, and data analysis were performed using MATLAB v7.0.1 with the Image Processing toolbox. Scripts have been tested on Windows XP and 7.
