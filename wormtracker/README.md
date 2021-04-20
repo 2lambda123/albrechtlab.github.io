@@ -5,7 +5,7 @@ sort: 2
 --->
 ---
 
-# ArenaWormTracker Documentation
+# ArenaWormTracker
 <!---
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
