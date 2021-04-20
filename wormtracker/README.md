@@ -3,10 +3,7 @@ sort: 2
 ---
 
 # ArenaWormTracker
-<!---
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
---->
+
+This set of MATLAB code analyzes _C. elegans_ locomotory behavior within microfluidic arenas.
 
 {% include list.liquid all=true %}
