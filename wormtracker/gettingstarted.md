@@ -19,8 +19,6 @@ A frame of the video should appear.  The following user inputs are required, acc
 
 Analysis should begin and the figure should update every 60 frames, showing the current frame and tracked animals (blue + indicates centroid; red line is prior path).
 
-<img src="tracks.JPG">
-
 At the end of analysis, a single multipage PDF should appear in the same folder as the raw video.
 
 Version 1.2 scripts were tested on Win 10 running MATLAB R2019. 
