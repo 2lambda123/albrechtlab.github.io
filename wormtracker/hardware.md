@@ -7,6 +7,8 @@ sort: 2
 ## Building a tracker: our current version 
 We recently have built several new video tracking setups for microfluidic behavior experiments. By using inexpensive optics, LED backlighting, and machine vision cameras, we have reduced costs to under $1000 each.  Here we use off-the-shelf support materials, although some custom machining may be required to attach the camera.
 
+[img src="assets/Wormtracker.jpg"]
+
 Our current setup:
 
 | Vendor | Item Description | Catalog # | Qty | Price Each | Total | Notes |
