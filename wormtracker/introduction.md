@@ -24,7 +24,7 @@ MATLAB scripts (m-files) accomplish the following basic tasks:
  * Ethogram: Displays ethogram and summarizes behavioral state probability and speed over time.
  * WormDensity: Summarizes behavioral state and speed data over space and time.
 
-Video tracking, behavior segmentation, and data analysis were performed using MATLAB v7.0.1 with the Image Processing toolbox. Scripts have been tested on Windows XP and 7. 
+Video tracking, behavior segmentation, and data analysis were performed using MATLAB R2016+ with the Image Processing toolbox. Scripts have been tested on Windows 10. 
 
 ## Example Video 
 C. elegans in a microfluidic behavior arena, captured with a [single worm tracker](http://www.mrc-lmb.cam.ac.uk/wormtracker/).
