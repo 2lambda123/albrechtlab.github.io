@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# NeuroTracker Documentation
+# NeuroTracker
 <!---
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
