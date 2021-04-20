@@ -23,4 +23,4 @@ Analysis should begin and the figure should update every 60 frames, showing the 
 
 At the end of analysis, a single multipage PDF should appear in the same folder as the raw video.
 
-Version 1.0 scripts were tested on Win XP and Windows 7 running MATLAB v7.0.1. 
+Version 1.2 scripts were tested on Win 10 running MATLAB R2019. 
