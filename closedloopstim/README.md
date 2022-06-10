@@ -5,7 +5,7 @@ sort: 4
 # Closed-Loop Stimulation
 
 This repository contains files for triggering stimulated neural recordings based on a behavioral or other visual attribute. It was developed to assess changes to neural function between sleep and wake states in the nematode _C. elegans_, as published here:  
-* [Sleep Analysis in Adult C. elegans Reveals State-Dependent Alteration of Neural and Behavioral Responses](https://www.jneurosci.org/content/41/9/1892)
+* [Sleep Analysis in Adult C. elegans Reveals State-Dependent Alteration of Neural and Behavioral Responses](https://www.jneurosci.org/content/41/9/1892)  
 Daniel E. Lawler, Yee Lian Chew, Josh D. Hawk, Ahmad Aljobeh, William R. Schafer, Dirk R. Albrecht  
 Journal of Neuroscience 3 March 2021, 41 (9) 1892-1907; DOI: 10.1523/JNEUROSCI.1701-20.2020  
 
